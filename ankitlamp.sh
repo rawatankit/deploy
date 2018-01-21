@@ -12,7 +12,7 @@ echo "##########################################################################
 
 #Update the repositories
 
-sudo apt-get update
+sudo apt-get -y update
 
 #Apache, Php, MySQL and required packages installation
 
