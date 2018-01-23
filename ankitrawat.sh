@@ -16,4 +16,4 @@ sudo apt-get update -y
 
 #Apache, Php, MySQL and required packages installation
 
-sudo apt-get -y install apache2 php7.0 zip
+sudo apt-get -y install nginx php7.0 zip
